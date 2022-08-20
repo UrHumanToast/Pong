@@ -1,7 +1,7 @@
 package objects
 
 import (
-	"github.com/UrHumanToast/Pong/modules/utilities"
+	"github.com/UrHumanToast/ScreenHockey/modules/utilities"
 	rl "github.com/gen2brain/raylib-go/raylib"
 )
 

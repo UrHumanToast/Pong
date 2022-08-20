@@ -1,4 +1,4 @@
-module github.com/UrHumanToast/Pong
+module github.com/UrHumanToast/ScreenHockey
 
 go 1.18
 
